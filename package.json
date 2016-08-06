@@ -27,7 +27,7 @@
     "react-mixin": "3.0.3",
     "react-modal": "0.6.1",
     "react-router": "2.0.0",
-    "react-scroll": "github:mildbreakfast/react-scroll#develop",
+    "react-scroll": "github:mildbreakfast/react-scroll",
     "react-visibility-sensor": "3.0.0",
     "setimmediate": "^1.0.4",
     "simple-scrollbar": "github:mildbreakfast/simple-scrollbar"
